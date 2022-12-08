@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# 22-Stu_Mini-Project
-=======
 # Module 01 Mini-Project: Landing Page
 
 In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
@@ -94,4 +91,3 @@ Use [Google](https://www.google.com) or another search engine to research this.
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
->>>>>>> 46254fe6a00baa240afafac8646d3562e4fd3243
