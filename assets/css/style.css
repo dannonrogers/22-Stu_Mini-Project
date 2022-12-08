@@ -7,7 +7,7 @@ list-style: none;
 }
 /* Element Selectors */
 header {
-    position: relative;
+    position: fixed;
     background-color: black;
     padding: 3px;
     border-bottom: 5px gray solid;
