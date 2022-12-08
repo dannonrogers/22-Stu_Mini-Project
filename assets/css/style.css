@@ -1,0 +1,55 @@
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+list-style: none;}
+/* Element Selectors */
+header {
+    position: fixed;
+    background-color: black;
+    padding: 3px;
+    border-bottom: 5px gray solid;
+    font-size: 15pt;
+    width: 100%;
+}
+h1 {
+    margin-top: 40px;
+}
+main {
+    text-align: center;
+}
+img {
+    width: 40%;
+    height: 40%;
+    padding: 5px;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    
+}
+
+/* Class & ID Selectors */
+.nav {
+    display: inline;
+}
+.header-link {
+    color: white;
+    padding-right: 30px;
+}
+.padding {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#contact {
+
+}
+#section {
+    background-color: rgb(221, 210, 206);
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+    
+}
